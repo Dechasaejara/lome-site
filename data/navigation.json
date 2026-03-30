@@ -1,0 +1,88 @@
+{
+  "topContact": [
+    {
+      "label": "+251 913 596 469",
+      "href": "tel:+251913596469",
+      "icon": "phone"
+    },
+    {
+      "label": "hello@lome.health",
+      "href": "mailto:hello@lome.health",
+      "icon": "mail"
+    },
+    {
+      "label": "Addis Ababa, Ethiopia",
+      "href": "#",
+      "icon": "mapPin"
+    }
+  ],
+  "socialLinks": [
+    {
+      "label": "Facebook",
+      "href": "#",
+      "icon": "facebook"
+    },
+    {
+      "label": "Twitter",
+      "href": "#",
+      "icon": "twitter"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "#",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Instagram",
+      "href": "#",
+      "icon": "instagram"
+    }
+  ],
+  "headerLinks": [
+    {
+      "label": "Home",
+      "href": "#home"
+    },
+    {
+      "label": "Services",
+      "href": "#services"
+    },
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Calculator",
+      "href": "#calculator"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "footerColumns": [
+    {
+      "title": "Solutions",
+      "links": [
+        "Individual Plans",
+        "Family Health",
+        "Corporate Group",
+        "Medical Concierge"
+      ]
+    },
+    {
+      "title": "Company",
+      "links": [
+        "Our Vision",
+        "Partner Hospitals",
+        "Careers",
+        "Privacy Policy"
+      ]
+    }
+  ],
+  "legalLinks": [
+    "Terms",
+    "Privacy",
+    "Cookies"
+  ]
+}

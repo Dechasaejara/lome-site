@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #013220;
+}
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-brand-green: #013220;
+  --color-brand-lime: #ccff00;
+  --color-brand-beige: #f7e7ce;
+  --color-brand-muted: #79716b;
+  --color-brand-dim: #62748e;
+  --font-sans: "Inter", "Segoe UI", sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "Inter", "Segoe UI", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}

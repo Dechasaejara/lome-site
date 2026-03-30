@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "badge": "Ethiopia's Next-Gen Insurance",
+    "titleLead": "Live",
+    "titleAccent": "Uninterrupted.",
+    "description": "Next-gen health insurance for Ethiopia. Smart, fast, and designed to keep your life moving forward without pauses.",
+    "primaryCta": "Get Started",
+    "secondaryCta": "Calculator",
+    "trustLabel": "Trusted by Thousands",
+    "heroImage": "/assets/d766ea2de6464ef678d5bbe416efb582417c3412.png",
+    "coverCardTitle": "100% Covered",
+    "coverCardText": "Preventive checkups are fully covered by Lome.",
+    "supportLabel": "Support",
+    "supportValue": "24/7 Active"
+  },
+  "stats": [
+    {
+      "value": "Smart",
+      "label": "Tech-First Care",
+      "icon": "sparkle"
+    },
+    {
+      "value": "50K+",
+      "label": "Happy Members",
+      "icon": "users"
+    },
+    {
+      "value": "24/7",
+      "label": "Concierge Support",
+      "icon": "clock"
+    },
+    {
+      "value": "200+",
+      "label": "Partner Hospitals",
+      "icon": "hospital"
+    }
+  ],
+  "plans": [
+    {
+      "name": "Individual Health Plans",
+      "description": "Comprehensive coverage for one person, offering essential health benefits including outpatient, inpatient, dental, and vision care.",
+      "features": [
+        "Outpatient & Inpatient Coverage",
+        "Prescription Drug Benefits",
+        "Preventive Care",
+        "Mental Health Support"
+      ],
+      "buttonLabel": "Select Plan",
+      "icon": "individual"
+    },
+    {
+      "name": "Family Health Plans",
+      "description": "Protect your entire family with our comprehensive plans. One head of household registers and adds spouse and children under one plan.",
+      "features": [
+        "Spouse & Children Coverage",
+        "Maternity Benefits",
+        "Pediatric Care",
+        "Family Wellness Programs"
+      ],
+      "buttonLabel": "Select Plan",
+      "icon": "family"
+    },
+    {
+      "name": "Group Health Plans",
+      "description": "Employers can offer comprehensive health coverage to their employees. Ideal for companies looking to attract and retain talent.",
+      "features": [
+        "Employee Coverage",
+        "Flexible Plan Options",
+        "Dedicated Portal",
+        "Corporate Wellness"
+      ],
+      "buttonLabel": "Select Plan",
+      "icon": "group"
+    }
+  ],
+  "featuresIntro": {
+    "eyebrow": "Why Choose Lome",
+    "title": "Designed For Real Life",
+    "description": "We've moved beyond traditional insurance. Lome is a tech-first health partner that uses real-time data and seamless digital flows to ensure your health journey is never interrupted.",
+    "cta": "Explore More"
+  },
+  "featuresImage": "/assets/ea83cb703776c4e3fa87a631d9974d3e3cb1f741.png",
+  "features": [
+    {
+      "title": "Comprehensive Coverage",
+      "description": "From routine check-ups to emergency care, our plans offer extensive coverage tailored to your needs."
+    },
+    {
+      "title": "Personalized Service",
+      "description": "Our dedicated team takes time to understand your unique requirements and guide you through every step."
+    },
+    {
+      "title": "Financial Security",
+      "description": "Affordable premiums and flexible payment options ensure your healthcare future is secure."
+    },
+    {
+      "title": "Digital First",
+      "description": "Modern health-tech designed for the next generation. Quick claims and transparent processing."
+    }
+  ],
+  "calculator": {
+    "eyebrow": "Premium Calculator",
+    "title": "Calculate Your Future",
+    "description": "Select your plan type and get a precision estimate in seconds.",
+    "plans": [
+      "Individual",
+      "Family",
+      "Group"
+    ],
+    "genderOptions": [
+      "Female",
+      "Male",
+      "Non-binary",
+      "Prefer not to say"
+    ]
+  },
+  "testimonialsIntro": {
+    "eyebrow": "Member Stories",
+    "title": "People Who Live Uninterrupted",
+    "description": "Real experiences from people and teams who switched to Lome."
+  },
+  "testimonials": [
+    {
+      "quote": "\"Lome has been a lifesaver. The coverage is comprehensive and the claims process is so smooth. I feel truly protected knowing I have Lome backing me up.\"",
+      "name": "Meron Tadesse",
+      "role": "Individual Plan Member",
+      "image": "/assets/f310644b5aa13ebb04092ee7c64844b33fc7e148.png"
+    },
+    {
+      "quote": "\"Getting my entire family covered was so easy. The registration process is straightforward and the family plan covers everything we need. Highly recommended!\"",
+      "name": "Daniel Bekele",
+      "role": "Family Plan Member",
+      "image": "/assets/2e7643688401336121bc56700bbc0c66560b4788.png"
+    },
+    {
+      "quote": "\"We switched our company's health insurance to Lome and it's been the best decision. Our employees love the coverage and the portal makes management easy.\"",
+      "name": "Sara Hailu",
+      "role": "HR Manager, TechCorp",
+      "image": "/assets/8e77556fbd80c40daf79895064709c4348053e87.png"
+    }
+  ]
+}
